@@ -18,7 +18,7 @@ It was built as part of a **Software Engineering** course project to demonstrate
 ---
 
 ## 🚀 Live Preview
-> Hosted Locally – Clone this repo and open `index.html` in your browser.
+> Hosted at - https://studysynconline.vercel.app/
 
 ---
 
