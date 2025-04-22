@@ -6,14 +6,14 @@ A lightweight, browser-based productivity app built for students to plan, manage
 
 ## 🔍 Overview
 
-**StudySync** is a front-end only application that helps students:
+**StudySync** is a web based only application that helps students:
 - 🗓️ Create personalized study timetables
 - ✅ Track tasks and mark them as complete
 - 📝 Write and save study notes
 - 🌙 Switch between light/dark mode
 - 🔐 Store all data safely in **local storage only**
 
-It was built as part of a **Software Engineering** course project to demonstrate front-end development, UI design, and modular component management.
+It was built as part of a **Software Engineering** course project to demonstrate our project development skills, UI design, and modular component management.
 
 ---
 
