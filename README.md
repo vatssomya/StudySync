@@ -92,7 +92,7 @@ We followed the **Agile** model with:
 | Somya Vats         | Lead Developer         |
 | Tanisha            | UI/UX Designer         |
 | Hardik Bhardwaj    | Frontend Developer     |
-| Aditya Amit Umre   | Project Manager        |
+| Aditya Amit Umre   | Backend Manager        |
 
 ---
 
